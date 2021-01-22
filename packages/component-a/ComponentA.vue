@@ -1,5 +1,5 @@
 <template>
-  <div>Component A smth/div>
+  <div>Component A/div>
 </template>
 
 <script>
