@@ -1,5 +1,5 @@
 {
-  "name": "component-a",
+  "name": "@webmint/component-a",
   "version": "0.2.4",
   "description": "> TODO: description",
   "author": "mykola <webmintua@gmail.com>",
@@ -17,5 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "723864e4af038f1a696ab4e0187fc7760018ad4c"
+  "gitHead": "7d6c94fb5825ec534b645e46feb927d6a5f7ecf1"
 }
