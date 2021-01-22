@@ -1,5 +1,5 @@
 <template>
-  <div>Component A or</div>
+  <div>Component A or a </div>
 </template>
 
 <script>
