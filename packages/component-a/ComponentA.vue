@@ -1,5 +1,5 @@
 <template>
-  <div>Component A is</div>
+  <div>Component A are</div>
 </template>
 
 <script>
