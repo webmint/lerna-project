@@ -1,0 +1,14 @@
+{
+  "name": "lerna-project",
+  "version": "0.0.0",
+  "author": "mykola <webmintua@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.18.1"
+  }
+}
