@@ -1,6 +1,6 @@
 {
   "name": "component-a",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "> TODO: description",
   "author": "mykola <webmintua@gmail.com>",
   "homepage": "",
@@ -17,5 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "ff40cce3b7881773f093cd75a3c51697b0aa0dc0"
+  "gitHead": "723864e4af038f1a696ab4e0187fc7760018ad4c"
 }
